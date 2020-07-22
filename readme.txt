@@ -8,4 +8,9 @@ Creating a new branch is quick.
 master
 Creating a new branch is quick AND simple.
 Switched to a new branch 'dev'
+<<<<<<< HEAD
 Git is a free software ..
+=======
+Add Dev
+Add Dev
+>>>>>>> dev
