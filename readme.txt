@@ -11,4 +11,8 @@ Switched to a new branch 'dev'
 Git is a free software ..
 Add Dev
 Add Dev
+<<<<<<< HEAD
 
+=======
+git push to master
+>>>>>>> dev
